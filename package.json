@@ -1,0 +1,23 @@
+{
+  "name": "firebase-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "express-handlebars": "^8.0.1",
+    "firebase-admin": "^12.7.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.7",
+    "zod": "^3.23.8"
+  }
+}
