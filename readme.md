@@ -21,3 +21,12 @@ Instalamos nodemon, nodemon detecta cambios en los archivos y reinicia el servid
 `npm i nodemon`
 para su configuración ir a `package.json` 
 `    "start": "nodemon ./src/index.js",`
+
+vercel login 
+vercel
+vercel --prod
+
+🔗  Linked to santiagos-projects-5d231867/firebase-nodejs (created .vercel)
+🔍  Inspect: https://vercel.com/santiagos-projects-5d231867/firebase-nodejs/EFV1bXkV1VrWDYvkE2ysm1owkEVM [2s]
+✅  Production: https://firebase-nodejs-91teaj9i9-santiagos-projects-5d231867.vercel.app [2s]
+PS C:\Users\rodri\OneDrive\Escritorio\Projects\firebase-nodejs> 

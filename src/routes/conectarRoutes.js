@@ -1,5 +1,5 @@
 const validateConectar = require('../schemas/conectarSchema');
-const db = require("../config");
+const {db} = require("../config");
 const { Router } = require('express');
 const router = Router();
 const Conectar = db.collection("conectar");

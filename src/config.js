@@ -7,4 +7,5 @@ admin.initializeApp({
     databaseURL: 'https://munanky-43fc1.firebaseio.com'
 });
 const db = admin.firestore();
-module.exports = db;
+const auth = admin.auth();
+module.exports = {db,auth};
